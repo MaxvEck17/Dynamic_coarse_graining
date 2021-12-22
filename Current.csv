@@ -1,0 +1,1605 @@
+Time,,,,,0,1,2,3,4,5,6,7,8
+"admissions-critical",,,,,0,6.44274E-09,1.08079E-06,1.22862E-05,5.08485E-05,0.000127217,0.00023998,0.000382609,0.000549625
+"admissions-hospital",,,,,0,1.363E-05,0.000273857,0.00107286,0.00236183,0.00398688,0.0058586,0.00795136,0.0102673
+already triggered,,,,,0
+"available-susceptible","0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"available-susceptible","0","High-risk","non-vaccinated",,170,169.996,169.992,169.987,169.982,169.976,169.969,169.961,169.952
+"available-susceptible","0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"available-susceptible","0","Low-risk","non-vaccinated",,4086,4085.9,4085.8,4085.68,4085.56,4085.42,4085.25,4085.06,4084.83
+"available-susceptible","1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"available-susceptible","1","High-risk","non-vaccinated",,530,529.987,529.974,529.959,529.943,529.924,529.903,529.878,529.849
+"available-susceptible","1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"available-susceptible","1","Low-risk","non-vaccinated",,12722,12721.7,12721.4,12721,12720.6,12720.2,12719.7,12719.1,12718.4
+"available-susceptible","2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"available-susceptible","2","High-risk","non-vaccinated",,107,106.997,106.995,106.992,106.988,106.985,106.98,106.975,106.969
+"available-susceptible","2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"available-susceptible","2","Low-risk","non-vaccinated",,2256,2255.95,2255.89,2255.83,2255.76,2255.68,2255.59,2255.48,2255.36
+average time before symptoms,,,,,6.51991,6.51991,6.51991,6.51991,6.51991,6.51991,6.51991,6.51991,6.51991
+"average-time-tobe-critical-toDead",,,,,13.7165
+"average-time-tobe-critical-toImmune",,,,,17.7685
+"average-time-tobe-exposed",,,,,5.51991
+"average-time-tobe-hospital-toCritical",,,,,1.95
+"average-time-tobe-hospital-toDead",,,,,7.986
+"average-time-tobe-hospital-toImmune",,,,,8.992
+"average-time-tobe-infectious-toDead",,,,,6.996
+"average-time-tobe-infectious-toHospital",,,,,5.996
+"average-time-tobe-infectious-toImmune",,,,,9.5
+base long movement,,,,,0.15
+base short movement,,,,,0.4
+Becomming infectious asymptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"0",not isolated,"High-risk","non-vaccinated",0,2.47872E-05,0.000140108,0.000334906,0.000572527,0.000826334,0.00108561,0.00135172,0.00163284
+Becomming infectious asymptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,0.000713777,0.0040346,0.00964402,0.0164866,0.0237953,0.0312614,0.0389246,0.0470197
+Becomming infectious asymptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"1",not isolated,"High-risk","non-vaccinated",0,7.72776E-05,0.000436809,0.00104412,0.00178494,0.00257622,0.00338454,0.0042142,0.00509062
+Becomming infectious asymptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"1",not isolated,"Low-risk","non-vaccinated",0.0772649,0.0781454,0.0823943,0.0899748,0.099971,0.111841,0.125632,0.141819,0.161094
+Becomming infectious asymptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"2",not isolated,"High-risk","non-vaccinated",0,1.56013E-05,8.81859E-05,0.000210794,0.000360355,0.000520105,0.000683294,0.000850791,0.00102773
+Becomming infectious asymptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious asymptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,0.000394097,0.00222762,0.00532475,0.00910274,0.0131381,0.0172603,0.0214914,0.025961
+Becomming infectious symptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"0",not isolated,"High-risk","non-vaccinated",0,4.48432E-05,0.000253474,0.000605888,0.00103578,0.00149495,0.001964,0.00244544,0.00295402
+Becomming infectious symptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,0.000959809,0.00542528,0.0129682,0.0221694,0.0319973,0.0420369,0.0523415,0.0632269
+Becomming infectious symptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"1",not isolated,"High-risk","non-vaccinated",0,0.000139805,0.000790244,0.00188894,0.00322918,0.00466071,0.00612307,0.00762403,0.0092096
+Becomming infectious symptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"1",not isolated,"Low-risk","non-vaccinated",0.103897,0.105081,0.110795,0.120988,0.13443,0.150392,0.168936,0.190703,0.216622
+Becomming infectious symptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"2",not isolated,"High-risk","non-vaccinated",0,2.82248E-05,0.00015954,0.000381353,0.000651929,0.000940937,0.00123617,0.00153919,0.0018593
+Becomming infectious symptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming infectious symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,0.000529938,0.00299546,0.00716014,0.0122404,0.0176667,0.0232098,0.0288993,0.0349094
+Becomming mild simptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",not isolated,"High-risk","non-vaccinated",0,2.21865E-06,4.63766E-05,0.000187512,0.00041903,0.00070381,0.00101133,0.00132804,0.00165464
+Becomming mild simptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,6.38888E-05,0.00133547,0.00539963,0.0120665,0.0202671,0.0291224,0.0382426,0.0476475
+Becomming mild simptomatic,"0",switch,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",switch,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",switch,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"0",switch,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",not isolated,"High-risk","non-vaccinated",0,6.91697E-06,0.000144586,0.000584596,0.00130639,0.00219423,0.00315296,0.00414036,0.00515859
+Becomming mild simptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",not isolated,"Low-risk","non-vaccinated",0,0.0550576,0.0906453,0.100852,0.110431,0.122563,0.13706,0.153992,0.173905
+Becomming mild simptomatic,"1",switch,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",switch,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",switch,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"1",switch,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",not isolated,"High-risk","non-vaccinated",0,1.39645E-06,2.919E-05,0.000118022,0.000263743,0.000442986,0.00063654,0.000835885,0.00104145
+Becomming mild simptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,3.52749E-05,0.000737353,0.0029813,0.00666227,0.01119,0.0160793,0.0211149,0.0263076
+Becomming mild simptomatic,"2",switch,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",switch,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",switch,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming mild simptomatic,"2",switch,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",not isolated,"High-risk","non-vaccinated",0,1.06539E-06,2.22699E-05,9.00426E-05,0.000201217,0.000337967,0.000485635,0.000637722,0.000794555
+Becomming severe symptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,6.40174E-06,0.000133816,0.00054105,0.00120908,0.00203079,0.0029181,0.00383196,0.00477434
+Becomming severe symptomatic,"0",switch,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",switch,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",switch,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"0",switch,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",not isolated,"High-risk","non-vaccinated",0,3.32151E-06,6.94297E-05,0.000280721,0.000627324,0.00105366,0.00151404,0.00198819,0.00247714
+Becomming severe symptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",not isolated,"Low-risk","non-vaccinated",0,0.00551684,0.00908277,0.0101055,0.0110653,0.012281,0.0137336,0.0154302,0.0174255
+Becomming severe symptomatic,"1",switch,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",switch,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",switch,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"1",switch,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",not isolated,"High-risk","non-vaccinated",0,6.70569E-07,1.40169E-05,5.66739E-05,0.000126648,0.000212721,0.000305665,0.000401389,0.000500102
+Becomming severe symptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,3.53459E-06,7.38837E-05,0.00029873,0.000667567,0.00112126,0.00161117,0.00211573,0.00263605
+Becomming severe symptomatic,"2",switch,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",switch,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",switch,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Becomming severe symptomatic,"2",switch,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Beds per person,,,,,1
+"beds-C",,,,,3
+"beds-H",,,,,40
+begin time trigger,,,,,0
+"begin-trigger",,,,,0,0,0,0,0,0,0,0,0
+"blocked-bed-effect?",,,,,0
+"CFR%",,,,,4.26812,4.26812,4.26812,4.26812,4.26812,4.26812,4.26812,4.26812,4.26812
+Chance of being informed on becomming symptomatic,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"0","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"0","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"1","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"1","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"2","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on becomming symptomatic,"2","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"0","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"0","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"1","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"1","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"2","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Chance of being informed on infection,"2","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+chance of contact,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+chance of contact,"0","High-risk","non-vaccinated",,0.0986,0.104994,0.112788,0.123804,0.139224,0.159559,0.184974,0.215587,0.251667
+chance of contact,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+chance of contact,"0","Low-risk","non-vaccinated",,2.36988,2.52357,2.71089,2.97567,3.34629,3.83504,4.4459,5.1817,6.04889
+chance of contact,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+chance of contact,"1","High-risk","non-vaccinated",,0.3074,0.327335,0.351633,0.385978,0.434051,0.497448,0.576683,0.672125,0.784608
+chance of contact,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+chance of contact,"1","Low-risk","non-vaccinated",,7.37876,7.85728,8.44051,9.26493,10.4189,11.9406,13.8426,16.1335,18.8336
+chance of contact,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+chance of contact,"2","High-risk","non-vaccinated",,0.06206,0.0660846,0.07099,0.0779239,0.0876292,0.100428,0.116425,0.135693,0.158402
+chance of contact,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+chance of contact,"2","Low-risk","non-vaccinated",,1.30848,1.39334,1.49676,1.64296,1.84758,2.11744,2.45471,2.86097,3.33977
+Chance of contact lookup,,,,,0.00058,0.00058,0.00058,0.00058,0.00058,0.00058,0.00058,0.00058,0.00058
+chance severe infection,"High-risk",,,,0.228905,0.228905,0.228905,0.228905,0.228905,0.228905,0.228905,0.228905,0.228905
+chance severe infection,"Low-risk",,,,0.0533971,0.0533971,0.0533971,0.0533971,0.0533971,0.0533971,0.0533971,0.0533971,0.0533971
+"check-triggered?",,,,,0,0,0,0,0,0,0,0,0
+"Community IFR%",,,,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+Condition worsens,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Condition worsens,"0","High-risk","non-vaccinated",,0,5.28527E-14,1.12374E-10,5.49332E-09,6.32595E-08,3.41897E-07,1.16873E-06,2.95362E-06,6.04926E-06
+Condition worsens,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Condition worsens,"0","Low-risk","non-vaccinated",,0,3.17583E-13,6.75235E-10,3.30084E-08,3.80115E-07,2.0544E-06,7.02272E-06,1.77478E-05,3.6349E-05
+Condition worsens,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Condition worsens,"1","High-risk","non-vaccinated",,0,1.64776E-13,3.50342E-10,1.71262E-08,1.97221E-07,1.06591E-06,3.6437E-06,9.20836E-06,1.88595E-05
+Condition worsens,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Condition worsens,"1","Low-risk","non-vaccinated",,0,6.442E-09,1.07921E-06,1.22089E-05,4.99582E-05,0.000122405,0.000223532,0.000341041,0.00046449
+Condition worsens,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Condition worsens,"2","High-risk","non-vaccinated",,0,3.32661E-14,7.07295E-11,3.45756E-09,3.98163E-08,2.15194E-07,7.35615E-07,1.85905E-06,3.80748E-06
+Condition worsens,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Condition worsens,"2","Low-risk","non-vaccinated",,0,1.75347E-13,3.72817E-10,1.82249E-08,2.09873E-07,1.13429E-06,3.87745E-06,9.79908E-06,2.00693E-05
+"contact-age-homofily","0",,,,0.881,0.881935,0.891878,0.919466,0.964379,1.01953,1.07681,1.1305,1.17766
+"contact-age-homofily","1",,,,1.136,1.13573,1.1329,1.12505,1.11226,1.09656,1.08025,1.06497,1.05154
+"contact-age-homofily","2",,,,0.46,0.460046,0.460536,0.461894,0.464106,0.466822,0.469642,0.472285,0.474607
+"contact-age-homofily-0","0",,,,3.447
+"contact-age-homofily-0","1",,,,0.881
+"contact-age-homofily-0","2",,,,0.247
+"contact-age-homofily-1","0",,,,0.881
+"contact-age-homofily-1","1",,,,1.136
+"contact-age-homofily-1","2",,,,0.46
+"contact-age-homofily-2","0",,,,0.247
+"contact-age-homofily-2","1",,,,0.46
+"contact-age-homofily-2","2",,,,1.04
+Critical care,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Critical care,"0","High-risk","non-vaccinated",,0,3.63112E-15,1.8853E-11,1.56168E-09,2.65625E-08,1.97038E-07,8.826E-07,2.8293E-06,7.17054E-06
+Critical care,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Critical care,"0","Low-risk","non-vaccinated",,0,2.18188E-14,1.13284E-10,9.38389E-09,1.59609E-07,1.18396E-06,5.30339E-06,1.70008E-05,4.30865E-05
+Critical care,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Critical care,"1","High-risk","non-vaccinated",,0,1.13205E-14,5.8777E-11,4.86878E-09,8.28125E-08,6.14294E-07,2.75164E-06,8.82076E-06,2.23552E-05
+Critical care,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Critical care,"1","Low-risk","non-vaccinated",,0,6.38951E-10,2.66032E-07,5.29531E-06,3.32766E-05,0.000115943,0.000285622,0.000564209,0.000961004
+Critical care,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Critical care,"2","High-risk","non-vaccinated",,0,2.28547E-15,1.18663E-11,9.82943E-10,1.67187E-08,1.24018E-07,5.55519E-07,1.78079E-06,4.51322E-06
+Critical care,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Critical care,"2","Low-risk","non-vaccinated",,0,1.20468E-14,6.25476E-11,5.18112E-09,8.8125E-08,6.53701E-07,2.92816E-06,9.38662E-06,2.37893E-05
+Daily free beds,,,,,43,43,42.9999,42.9993,42.9976,42.9946,42.99,42.9837,42.9757
+day,,,,,1
+day unit correction,,,,,1
+Days per week,,,,,7
+Dead,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Dead,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Dead,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"0",not isolated,"High-risk","non-vaccinated",0,3.49481E-12,1.99663E-09,5.41313E-08,4.56774E-07,2.09834E-06,6.67972E-06,1.67056E-05,3.53197E-05
+Dead,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"0",not isolated,"Low-risk","non-vaccinated",0,2.09997E-11,1.19974E-08,3.25265E-07,2.74467E-06,1.26086E-05,4.01373E-05,0.000100381,0.00021223
+Dead,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Dead,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Dead,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"1",not isolated,"High-risk","non-vaccinated",0,1.08956E-11,6.22478E-09,1.68762E-07,1.42406E-06,6.5419E-06,2.0825E-05,5.20821E-05,0.000110114
+Dead,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"1",not isolated,"Low-risk","non-vaccinated",1,1,1.00001,1.00008,1.00028,1.00066,1.00129,1.00219,1.00342
+Dead,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Dead,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Dead,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"2",not isolated,"High-risk","non-vaccinated",0,2.19968E-12,1.2567E-09,3.40709E-08,2.87499E-07,1.32072E-06,4.2043E-06,1.05147E-05,2.22306E-05
+Dead,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Dead,"2",not isolated,"Low-risk","non-vaccinated",0,1.15946E-11,6.62411E-09,1.79588E-07,1.51541E-06,6.96157E-06,2.2161E-05,5.54232E-05,0.000117178
+"death-no-bed",,,,,0.8
+decrease episodeless suceptible,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease episodeless suceptible,"0","High-risk","non-vaccinated",,0.003944,0.00419977,0.00451152,0.00495217,0.00556896,0.00638235,0.00739895,0.00862349,0.0100667
+decrease episodeless suceptible,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease episodeless suceptible,"0","Low-risk","non-vaccinated",,0.0947952,0.100943,0.108436,0.119027,0.133852,0.153402,0.177836,0.207268,0.241955
+decrease episodeless suceptible,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease episodeless suceptible,"1","High-risk","non-vaccinated",,0.012296,0.0130934,0.0140653,0.0154391,0.017362,0.0198979,0.0230673,0.026885,0.0313843
+decrease episodeless suceptible,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease episodeless suceptible,"1","Low-risk","non-vaccinated",,0.29515,0.314291,0.337621,0.370597,0.416754,0.477625,0.553703,0.645342,0.753343
+decrease episodeless suceptible,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease episodeless suceptible,"2","High-risk","non-vaccinated",,0.0024824,0.00264339,0.0028396,0.00311696,0.00350517,0.00401713,0.00465699,0.00542773,0.00633608
+decrease episodeless suceptible,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease episodeless suceptible,"2","Low-risk","non-vaccinated",,0.0523392,0.0557334,0.0598705,0.0657182,0.0739033,0.0846976,0.0981885,0.114439,0.133591
+decrease lost immunity,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"0","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"0","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"1","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"1","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"2","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+decrease lost immunity,"2","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+"Decrease week-E",,,,,0,0,0,0,0,0,0,0.461007,0.490904
+DfromDH,,,,,0.145299,0.145299,0.145299,0.145299,0.145299,0.145299,0.145299,0.145299,0.145299
+Die at critical care,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die at critical care,"0","High-risk","non-vaccinated",,0,5.45572E-20,1.60168E-15,3.50677E-13,1.18474E-11,1.49608E-10,1.03382E-09,4.76909E-09,1.65028E-08
+Die at critical care,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die at critical care,"0","Low-risk","non-vaccinated",,0,3.27825E-19,9.62423E-15,2.10715E-12,7.11888E-11,8.98967E-10,6.21205E-09,2.86566E-08,9.91625E-08
+Die at critical care,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die at critical care,"1","High-risk","non-vaccinated",,0,1.7009E-19,4.99348E-15,1.09329E-12,3.69359E-11,4.66425E-10,3.22309E-09,1.48683E-08,5.145E-08
+Die at critical care,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die at critical care,"1","Low-risk","non-vaccinated",,0,1.80765E-14,4.17351E-11,2.23208E-09,2.83073E-08,1.69421E-07,6.44116E-07,1.81565E-06,4.15283E-06
+Die at critical care,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die at critical care,"2","High-risk","non-vaccinated",,0,3.4339E-20,1.00812E-15,2.2072E-13,7.45687E-12,9.4165E-11,6.50699E-10,3.00172E-09,1.03871E-08
+Die at critical care,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die at critical care,"2","Low-risk","non-vaccinated",,0,1.81002E-19,5.31382E-15,1.16342E-12,3.93054E-11,4.96346E-10,3.42985E-09,1.58222E-08,5.47505E-08
+Die at home,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Die at home,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Die at home,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"0",not isolated,"High-risk","non-vaccinated",0,3.65177E-11,8.75917E-09,1.4124E-07,8.10941E-07,2.72267E-06,6.61907E-06,1.30231E-05,2.2137E-05
+Die at home,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"0",not isolated,"Low-risk","non-vaccinated",0,2.19428E-10,5.26323E-08,8.48684E-07,4.8728E-06,1.63601E-05,3.97728E-05,7.82533E-05,0.000133017
+Die at home,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Die at home,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Die at home,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"1",not isolated,"High-risk","non-vaccinated",0,1.13849E-10,2.7308E-08,4.40335E-07,2.52823E-06,8.48833E-06,2.06359E-05,4.06013E-05,6.90154E-05
+Die at home,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"1",not isolated,"Low-risk","non-vaccinated",0,1.39975E-06,2.95901E-05,0.000121152,0.000274454,0.000467267,0.000679154,0.000898119,0.0011199
+Die at home,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Die at home,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Die at home,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"2",not isolated,"High-risk","non-vaccinated",0,2.29847E-11,5.51312E-09,8.88979E-08,5.10416E-07,1.71368E-06,4.16612E-06,8.19687E-06,1.39333E-05
+Die at home,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Die at home,"2",not isolated,"Low-risk","non-vaccinated",0,1.21153E-10,2.90598E-08,4.68583E-07,2.69042E-06,9.03286E-06,2.19597E-05,4.32059E-05,7.34428E-05
+Die in hospital,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die in hospital,"0","High-risk","non-vaccinated",,0,2.9949E-15,8.40353E-12,5.40403E-10,8.12831E-09,5.68201E-08,2.48312E-07,7.91924E-07,2.01836E-06
+Die in hospital,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die in hospital,"0","Low-risk","non-vaccinated",,0,1.79958E-14,5.04953E-11,3.24719E-09,4.88416E-08,3.41422E-07,1.49206E-06,4.75853E-06,1.21279E-05
+Die in hospital,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die in hospital,"1","High-risk","non-vaccinated",,0,9.33705E-15,2.61992E-11,1.68479E-09,2.53412E-08,1.77145E-07,7.7415E-07,2.46894E-06,6.29252E-06
+Die in hospital,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die in hospital,"1","Low-risk","non-vaccinated",,0,3.99401E-10,9.74115E-08,1.59994E-06,9.37264E-06,3.21525E-05,7.99437E-05,0.00016091,0.000279636
+Die in hospital,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die in hospital,"2","High-risk","non-vaccinated",,0,1.88503E-15,5.28928E-12,3.40136E-10,5.11606E-09,3.57632E-08,1.56291E-07,4.98446E-07,1.27038E-06
+Die in hospital,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Die in hospital,"2","Low-risk","non-vaccinated",,0,9.93603E-15,2.78799E-11,1.79287E-09,2.69669E-08,1.88509E-07,8.23812E-07,2.62733E-06,6.6962E-06
+"distancing-option",,,,,0
+"distancing-reduction",,,,,0.25
+E days,,,,,0,5.51991,5.51991,5.51991,5.51991,5.51991,5.51991,5.51991,5.51991
+"effective-R",,,,,0,0.594846,1.14501,1.6274,2.02439,2.33856,2.58659,2.78746,2.70774
+episodeless susceptible,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+episodeless susceptible,"0","High-risk","non-vaccinated",,170,169.996,169.992,169.987,169.982,169.976,169.969,169.961,169.952
+episodeless susceptible,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+episodeless susceptible,"0","Low-risk","non-vaccinated",,4086,4085.9,4085.8,4085.68,4085.56,4085.42,4085.25,4085.06,4084.83
+episodeless susceptible,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+episodeless susceptible,"1","High-risk","non-vaccinated",,530,529.987,529.974,529.959,529.943,529.924,529.903,529.878,529.849
+episodeless susceptible,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+episodeless susceptible,"1","Low-risk","non-vaccinated",,12722,12721.7,12721.4,12721,12720.6,12720.2,12719.7,12719.1,12718.4
+episodeless susceptible,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+episodeless susceptible,"2","High-risk","non-vaccinated",,107,106.997,106.995,106.992,106.988,106.985,106.98,106.975,106.969
+episodeless susceptible,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+episodeless susceptible,"2","Low-risk","non-vaccinated",,2256,2255.95,2255.89,2255.83,2255.76,2255.68,2255.59,2255.48,2255.36
+"expected-hospital-outflow",,,,,0,1.03646E-09,2.55477E-07,4.2555E-06,2.54007E-05,8.92816E-05,0.000228833,0.000477633,0.000865383
+Exposed,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposed,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposed,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"0",not isolated,"High-risk","non-vaccinated",0,0.00405034,0.00818894,0.0122555,0.0162323,0.0202275,0.0244144,0.0289832,0.034117
+Exposed,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"0",not isolated,"Low-risk","non-vaccinated",0,0.0973512,0.196824,0.294564,0.390147,0.486173,0.586807,0.69662,0.820013
+Exposed,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposed,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposed,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"1",not isolated,"High-risk","non-vaccinated",0,0.0126275,0.0255302,0.0382083,0.0506065,0.0630621,0.0761155,0.0903595,0.106365
+Exposed,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"1",not isolated,"Low-risk","non-vaccinated",1,1.12276,1.26054,1.41202,1.58205,1.77976,2.01582,2.30059,2.64358
+Exposed,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposed,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposed,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"2",not isolated,"High-risk","non-vaccinated",0,0.00254933,0.00515422,0.00771375,0.0102168,0.0127314,0.0153667,0.0182424,0.0214737
+Exposed,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposed,"2",not isolated,"Low-risk","non-vaccinated",0,0.0537504,0.108672,0.162638,0.215412,0.26843,0.323993,0.384624,0.452753
+Exposing,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposing,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposing,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"0",not isolated,"High-risk","non-vaccinated",0.003944,0.00419977,0.00451152,0.00495217,0.00556896,0.00638235,0.00739895,0.00862349,0.0100667
+Exposing,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"0",not isolated,"Low-risk","non-vaccinated",0.0947952,0.100943,0.108436,0.119027,0.133852,0.153402,0.177836,0.207268,0.241955
+Exposing,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposing,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposing,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"1",not isolated,"High-risk","non-vaccinated",0.012296,0.0130934,0.0140653,0.0154391,0.017362,0.0198979,0.0230673,0.026885,0.0313843
+Exposing,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"1",not isolated,"Low-risk","non-vaccinated",0.29515,0.314291,0.337621,0.370597,0.416754,0.477625,0.553703,0.645342,0.753343
+Exposing,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposing,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Exposing,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"2",not isolated,"High-risk","non-vaccinated",0.0024824,0.00264339,0.0028396,0.00311696,0.00350517,0.00401713,0.00465699,0.00542773,0.00633608
+Exposing,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Exposing,"2",not isolated,"Low-risk","non-vaccinated",0.0523392,0.0557334,0.0598705,0.0657182,0.0739033,0.0846976,0.0981885,0.114439,0.133591
+FINAL TIME,,,,,200,200,200,200,200,200,200,200,200
+Fix variable,,,,,1
+"found-and-isolate",,,,,0.4
+Getting informed of infection,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"0","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"0","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"1","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"1","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"2","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Getting informed of infection,"2","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+HC LoS,,,,,0,8.08134,8.11679,8.1939,8.30141,8.42052,8.53578,8.6387,8.72664
+"high-risk-shielding?",,,,,1
+"Hospital IFR%",,,,,31.87,31.87,31.87,31.87,31.87,31.87,31.87,31.87,31.87
+Hospitalisation,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Hospitalisation,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Hospitalisation,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"0",not isolated,"High-risk","non-vaccinated",0,3.6126E-10,8.37277E-08,1.30278E-06,7.21514E-06,2.33753E-05,5.48907E-05,0.000104479,0.000172163
+Hospitalisation,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"0",not isolated,"Low-risk","non-vaccinated",0,2.17075E-09,5.03105E-07,7.82815E-06,4.33545E-05,0.000140458,0.000329828,0.000627794,0.0010345
+Hospitalisation,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Hospitalisation,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Hospitalisation,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"1",not isolated,"High-risk","non-vaccinated",0,1.12628E-09,2.61033E-07,4.0616E-06,2.24943E-05,7.28759E-05,0.00017113,0.000325728,0.000536745
+Hospitalisation,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"1",not isolated,"Low-risk","non-vaccinated",0,1.36249E-05,0.000272679,0.00105452,0.00226029,0.00365791,0.00508609,0.00648097,0.00784434
+Hospitalisation,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Hospitalisation,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Hospitalisation,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"2",not isolated,"High-risk","non-vaccinated",0,2.27381E-10,5.26992E-08,8.19983E-07,4.5413E-06,1.47127E-05,3.45488E-05,6.57601E-05,0.000108362
+Hospitalisation,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Hospitalisation,"2",not isolated,"Low-risk","non-vaccinated",0,1.19853E-09,2.77779E-07,4.32215E-06,2.39373E-05,7.75509E-05,0.000182108,0.000346624,0.000571178
+Hospitalised,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Hospitalised,"0","High-risk","non-vaccinated",,0,3.46812E-11,1.91934E-08,5.02232E-07,4.07373E-06,1.79105E-05,5.432E-05,0.000128842,0.000257228
+Hospitalised,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Hospitalised,"0","Low-risk","non-vaccinated",,0,2.08393E-10,1.1533E-07,3.01782E-06,2.44783E-05,0.000107621,0.000326399,0.000774191,0.00154564
+Hospitalised,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Hospitalised,"1","High-risk","non-vaccinated",,0,1.08124E-10,5.98383E-08,1.56578E-06,1.27004E-05,5.58386E-05,0.000169351,0.000401685,0.000801947
+Hospitalised,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Hospitalised,"1","Low-risk","non-vaccinated",,0,2.13101E-06,0.000105452,0.00071226,0.00229468,0.00510155,0.00914889,0.0143236,0.0204753
+Hospitalised,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Hospitalised,"2","High-risk","non-vaccinated",,0,2.18287E-11,1.20806E-08,3.16111E-07,2.56405E-06,1.12731E-05,3.41896E-05,8.10949E-05,0.000161903
+Hospitalised,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Hospitalised,"2","Low-risk","non-vaccinated",,0,1.1506E-10,6.3677E-08,1.66623E-06,1.35152E-05,5.94207E-05,0.000180215,0.000427453,0.000853393
+"HR-shield-duration",,,,,32
+I days,,,,,0,9.32432,9.32309,9.32097,9.31852,9.31613,9.31401,9.31221,9.3107
+"IC-isolation-duration",,,,,14
+Immune,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Immune,"0","High-risk","non-vaccinated",,0,7.77112E-10,9.58113E-08,1.44454E-06,9.2385E-06,3.67288E-05,0.000107956,0.000257915,0.000530583
+Immune,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Immune,"0","Low-risk","non-vaccinated",,0,2.23779E-08,2.75896E-06,4.1592E-05,0.000265918,0.00105656,0.00310258,0.0074024,0.0152022
+Immune,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Immune,"1","High-risk","non-vaccinated",,0,2.42276E-09,2.98706E-07,4.50356E-06,2.88024E-05,0.000114508,0.00033657,0.000804087,0.00165417
+Immune,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Immune,"1","Low-risk","non-vaccinated",,0,0.117569,0.234482,0.350682,0.467395,0.586625,0.710718,0.84217,0.983566
+Immune,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Immune,"2","High-risk","non-vaccinated",,0,4.89124E-10,6.03048E-08,9.0921E-07,5.81482E-06,2.31176E-05,6.7949E-05,0.000162335,0.000333955
+Immune,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Immune,"2","Low-risk","non-vaccinated",,0,1.23555E-08,1.5233E-06,2.29642E-05,0.000146821,0.000583358,0.00171302,0.00408708,0.0083936
+"immune-loss-when",,,,,12
+"immune-mild",,,,,1
+"immune-severe",,,,,1
+"immunity-duration",,,,,84,84,84,84,84,84,84,84,84
+impact,,,,,0.000150951,0.000174879,0.000200435,0.000228167,0.000258986,0.000293995,0.000334375,0.000381333,0.000436118
+incidence,,,,,2.31965E-05,2.47008E-05,2.65343E-05,2.9126E-05,3.27536E-05,3.75376E-05,4.35167E-05,5.07188E-05,5.92068E-05
+increase lost immunity,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+increase lost immunity,"0","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+increase lost immunity,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+increase lost immunity,"0","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+increase lost immunity,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+increase lost immunity,"1","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+increase lost immunity,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+increase lost immunity,"1","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+increase lost immunity,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+increase lost immunity,"2","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+increase lost immunity,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+increase lost immunity,"2","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+"Increase tot-days-infectious",,,,,1.68926,1.73564,1.95476,2.3337,2.81233,3.34964,3.93492,4.58011,5.30921
+"Increase week-E",,,,,0.461007,0.490904,0.527343,0.578851,0.650945,0.746022,0.864851,1.00798,1.17668
+Infection becomes severe,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infection becomes severe,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infection becomes severe,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"0",not isolated,"High-risk","non-vaccinated",0,3.6126E-10,8.37277E-08,1.30278E-06,7.21514E-06,2.33753E-05,5.48907E-05,0.000104479,0.000172163
+Infection becomes severe,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"0",not isolated,"Low-risk","non-vaccinated",0,2.17075E-09,5.03105E-07,7.82815E-06,4.33545E-05,0.000140458,0.000329828,0.000627794,0.0010345
+Infection becomes severe,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infection becomes severe,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infection becomes severe,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"1",not isolated,"High-risk","non-vaccinated",0,1.12628E-09,2.61033E-07,4.0616E-06,2.24943E-05,7.28759E-05,0.00017113,0.000325728,0.000536745
+Infection becomes severe,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"1",not isolated,"Low-risk","non-vaccinated",0,1.36249E-05,0.000272679,0.00105452,0.00226029,0.00365791,0.00508609,0.00648097,0.00784434
+Infection becomes severe,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infection becomes severe,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infection becomes severe,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"2",not isolated,"High-risk","non-vaccinated",0,2.27381E-10,5.26992E-08,8.19983E-07,4.5413E-06,1.47127E-05,3.45488E-05,6.57601E-05,0.000108362
+Infection becomes severe,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infection becomes severe,"2",not isolated,"Low-risk","non-vaccinated",0,1.19853E-09,2.77779E-07,4.32215E-06,2.39373E-05,7.75509E-05,0.000182108,0.000346624,0.000571178
+Infectious,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"0",not isolated,"High-risk","non-vaccinated",0,1.79631E-05,0.000224518,0.000871297,0.00212263,0.00403682,0.00660263,0.00978135,0.0135385
+Infectious,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"0",not isolated,"Low-risk","non-vaccinated",0,0.000431747,0.00539629,0.0209451,0.0510564,0.0972165,0.159304,0.236569,0.328354
+Infectious,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"1",not isolated,"High-risk","non-vaccinated",0,5.60028E-05,0.000699969,0.0027164,0.00661762,0.0125854,0.0205847,0.0304948,0.0422081
+Infectious,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"1",not isolated,"Low-risk","non-vaccinated",1,1.06412,1.1345,1.21899,1.32258,1.44782,1.59662,1.77153,1.97645
+Infectious,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"2",not isolated,"High-risk","non-vaccinated",0,1.13062E-05,0.000141315,0.000548405,0.00133601,0.00254082,0.00415577,0.0061565,0.00852127
+Infectious,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious,"2",not isolated,"Low-risk","non-vaccinated",0,0.00023838,0.00297945,0.0115644,0.0281897,0.0536761,0.0879563,0.130617,0.181294
+Infectious asymptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"0",not isolated,"High-risk","non-vaccinated",0,6.39409E-06,7.98813E-05,0.000309744,0.000754017,0.00143363,0.00234614,0.00348058,0.00482807
+Infectious asymptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,0.000184126,0.00230028,0.00891945,0.0217129,0.0412833,0.06756,0.100228,0.13903
+Infectious asymptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"1",not isolated,"High-risk","non-vaccinated",0,1.99345E-05,0.000249042,0.000965671,0.00235076,0.00446957,0.00731444,0.0108512,0.0150522
+Infectious asymptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"1",not isolated,"Low-risk","non-vaccinated",0,0.0774135,0.156335,0.238626,0.325398,0.4172,0.514617,0.618752,0.731472
+Infectious asymptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"2",not isolated,"High-risk","non-vaccinated",0,4.02452E-06,5.02782E-05,0.000194956,0.000474587,0.000902347,0.00147669,0.00219072,0.00303884
+Infectious asymptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious asymptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,0.000101661,0.00127005,0.00492469,0.0119883,0.0227937,0.0373019,0.0553386,0.0767626
+"Infectious pre-symptomatic","0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","0",not isolated,"High-risk","non-vaccinated",0,1.10583E-05,0.000118417,0.000377556,0.000753789,0.00119094,0.00165186,0.00212452,0.00261518
+"Infectious pre-symptomatic","0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","0",not isolated,"Low-risk","non-vaccinated",0,0.000236688,0.00253457,0.00808109,0.0161339,0.0254906,0.0353558,0.0454725,0.0559745
+"Infectious pre-symptomatic","1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","1",not isolated,"High-risk","non-vaccinated",0,3.44759E-05,0.000369184,0.00117709,0.00235005,0.00371295,0.00514991,0.0066235,0.00815321
+"Infectious pre-symptomatic","1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","1",not isolated,"Low-risk","non-vaccinated",0,0.081464,0.104467,0.114143,0.125592,0.13984,0.15664,0.176264,0.199439
+"Infectious pre-symptomatic","2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","2",not isolated,"High-risk","non-vaccinated",0,6.96022E-06,7.45333E-05,0.000237638,0.000474444,0.000749595,0.0010397,0.0013372,0.00164602
+"Infectious pre-symptomatic","2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+"Infectious pre-symptomatic","2",not isolated,"Low-risk","non-vaccinated",0,0.000130682,0.00139941,0.00446181,0.00890797,0.0140741,0.019521,0.0251067,0.0309051
+Infectious symptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"0",not isolated,"High-risk","non-vaccinated",0,5.10765E-07,2.62197E-05,0.000183997,0.000614825,0.00141224,0.00260463,0.00417626,0.00609521
+Infectious symptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,1.09327E-05,0.000561444,0.00394453,0.0132096,0.0304426,0.0563879,0.0908691,0.13335
+Infectious symptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"1",not isolated,"High-risk","non-vaccinated",0,1.59238E-06,8.17438E-05,0.000573639,0.00191681,0.00440285,0.00812031,0.0130201,0.0190027
+Infectious symptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"1",not isolated,"Low-risk","non-vaccinated",1,0.905243,0.873694,0.866225,0.871585,0.890778,0.925363,0.976511,1.04554
+Infectious symptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"2",not isolated,"High-risk","non-vaccinated",0,3.21481E-07,1.6503E-05,0.00011581,0.000386978,0.000888878,0.00163938,0.00262859,0.0038364
+Infectious symptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Infectious symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,6.03626E-06,0.00030999,0.00217789,0.00729343,0.0168083,0.0311334,0.0501715,0.0736262
+Infectious transmitters,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters,"0","High-risk","non-vaccinated",,0,1.79631E-05,0.000224518,0.000871297,0.00212263,0.00403682,0.00660263,0.00978135,0.0135385
+Infectious transmitters,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters,"0","Low-risk","non-vaccinated",,0,0.000431747,0.00539629,0.0209451,0.0510564,0.0972165,0.159304,0.236569,0.328354
+Infectious transmitters,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters,"1","High-risk","non-vaccinated",,0,5.60028E-05,0.000699969,0.0027164,0.00661762,0.0125854,0.0205847,0.0304948,0.0422081
+Infectious transmitters,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters,"1","Low-risk","non-vaccinated",,1,1.06412,1.1345,1.21899,1.32258,1.44782,1.59662,1.77153,1.97645
+Infectious transmitters,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters,"2","High-risk","non-vaccinated",,0,1.13062E-05,0.000141315,0.000548405,0.00133601,0.00254082,0.00415577,0.0061565,0.00852127
+Infectious transmitters,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters,"2","Low-risk","non-vaccinated",,0,0.00023838,0.00297945,0.0115644,0.0281897,0.0536761,0.0879563,0.130617,0.181294
+Infectious transmitters distr,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters distr,"0","High-risk","non-vaccinated",,0,1.68688E-05,0.000196268,0.000693908,0.00150339,0.00249514,0.00352098,0.00447629,0.00530844
+Infectious transmitters distr,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters distr,"0","Low-risk","non-vaccinated",,0,0.000405443,0.00471729,0.0166808,0.0361615,0.0600891,0.0849519,0.108262,0.128748
+Infectious transmitters distr,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters distr,"1","High-risk","non-vaccinated",,0,5.25909E-05,0.000611894,0.00216336,0.00468704,0.00777896,0.0109772,0.0139555,0.0165499
+Infectious transmitters distr,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters distr,"1","Low-risk","non-vaccinated",,1,0.999291,0.991746,0.970815,0.936736,0.894889,0.851429,0.810714,0.774967
+Infectious transmitters distr,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters distr,"2","High-risk","non-vaccinated",,0,1.06174E-05,0.000123533,0.000436754,0.000946251,0.00157047,0.00221615,0.00281743,0.0033412
+Infectious transmitters distr,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Infectious transmitters distr,"2","Low-risk","non-vaccinated",,0,0.000223857,0.00260456,0.00920996,0.0199658,0.0331769,0.0469044,0.0597748,0.0710855
+"informer?",,,,,0,0,0,0,0,0,0,0,0
+informers,,,,,0
+Initial chance of contact,,,,,0.00058
+Initial Critical care,"0","High-risk",vaccinated,,0
+Initial Critical care,"0","High-risk","non-vaccinated",,0
+Initial Critical care,"0","Low-risk",vaccinated,,0
+Initial Critical care,"0","Low-risk","non-vaccinated",,0
+Initial Critical care,"1","High-risk",vaccinated,,0
+Initial Critical care,"1","High-risk","non-vaccinated",,0
+Initial Critical care,"1","Low-risk",vaccinated,,0
+Initial Critical care,"1","Low-risk","non-vaccinated",,0
+Initial Critical care,"2","High-risk",vaccinated,,0
+Initial Critical care,"2","High-risk","non-vaccinated",,0
+Initial Critical care,"2","Low-risk",vaccinated,,0
+Initial Critical care,"2","Low-risk","non-vaccinated",,0
+Initial dead people,"0",In isolation,"High-risk",vaccinated,0
+Initial dead people,"0",In isolation,"High-risk","non-vaccinated",0
+Initial dead people,"0",In isolation,"Low-risk",vaccinated,0
+Initial dead people,"0",In isolation,"Low-risk","non-vaccinated",0
+Initial dead people,"0",not isolated,"High-risk",vaccinated,0
+Initial dead people,"0",not isolated,"High-risk","non-vaccinated",0
+Initial dead people,"0",not isolated,"Low-risk",vaccinated,0
+Initial dead people,"0",not isolated,"Low-risk","non-vaccinated",0
+Initial dead people,"1",In isolation,"High-risk",vaccinated,0
+Initial dead people,"1",In isolation,"High-risk","non-vaccinated",0
+Initial dead people,"1",In isolation,"Low-risk",vaccinated,0
+Initial dead people,"1",In isolation,"Low-risk","non-vaccinated",0
+Initial dead people,"1",not isolated,"High-risk",vaccinated,0
+Initial dead people,"1",not isolated,"High-risk","non-vaccinated",0
+Initial dead people,"1",not isolated,"Low-risk",vaccinated,0
+Initial dead people,"1",not isolated,"Low-risk","non-vaccinated",1
+Initial dead people,"2",In isolation,"High-risk",vaccinated,0
+Initial dead people,"2",In isolation,"High-risk","non-vaccinated",0
+Initial dead people,"2",In isolation,"Low-risk",vaccinated,0
+Initial dead people,"2",In isolation,"Low-risk","non-vaccinated",0
+Initial dead people,"2",not isolated,"High-risk",vaccinated,0
+Initial dead people,"2",not isolated,"High-risk","non-vaccinated",0
+Initial dead people,"2",not isolated,"Low-risk",vaccinated,0
+Initial dead people,"2",not isolated,"Low-risk","non-vaccinated",0
+initial episodeless susceptible,"0","High-risk",vaccinated,,0
+initial episodeless susceptible,"0","High-risk","non-vaccinated",,170
+initial episodeless susceptible,"0","Low-risk",vaccinated,,0
+initial episodeless susceptible,"0","Low-risk","non-vaccinated",,4086
+initial episodeless susceptible,"1","High-risk",vaccinated,,0
+initial episodeless susceptible,"1","High-risk","non-vaccinated",,530
+initial episodeless susceptible,"1","Low-risk",vaccinated,,0
+initial episodeless susceptible,"1","Low-risk","non-vaccinated",,12722
+initial episodeless susceptible,"2","High-risk",vaccinated,,0
+initial episodeless susceptible,"2","High-risk","non-vaccinated",,107
+initial episodeless susceptible,"2","Low-risk",vaccinated,,0
+initial episodeless susceptible,"2","Low-risk","non-vaccinated",,2256
+Initial Exposed,"0",In isolation,"High-risk",vaccinated,0
+Initial Exposed,"0",In isolation,"High-risk","non-vaccinated",0
+Initial Exposed,"0",In isolation,"Low-risk",vaccinated,0
+Initial Exposed,"0",In isolation,"Low-risk","non-vaccinated",0
+Initial Exposed,"0",not isolated,"High-risk",vaccinated,0
+Initial Exposed,"0",not isolated,"High-risk","non-vaccinated",0
+Initial Exposed,"0",not isolated,"Low-risk",vaccinated,0
+Initial Exposed,"0",not isolated,"Low-risk","non-vaccinated",0
+Initial Exposed,"1",In isolation,"High-risk",vaccinated,0
+Initial Exposed,"1",In isolation,"High-risk","non-vaccinated",0
+Initial Exposed,"1",In isolation,"Low-risk",vaccinated,0
+Initial Exposed,"1",In isolation,"Low-risk","non-vaccinated",0
+Initial Exposed,"1",not isolated,"High-risk",vaccinated,0
+Initial Exposed,"1",not isolated,"High-risk","non-vaccinated",0
+Initial Exposed,"1",not isolated,"Low-risk",vaccinated,0
+Initial Exposed,"1",not isolated,"Low-risk","non-vaccinated",1
+Initial Exposed,"2",In isolation,"High-risk",vaccinated,0
+Initial Exposed,"2",In isolation,"High-risk","non-vaccinated",0
+Initial Exposed,"2",In isolation,"Low-risk",vaccinated,0
+Initial Exposed,"2",In isolation,"Low-risk","non-vaccinated",0
+Initial Exposed,"2",not isolated,"High-risk",vaccinated,0
+Initial Exposed,"2",not isolated,"High-risk","non-vaccinated",0
+Initial Exposed,"2",not isolated,"Low-risk",vaccinated,0
+Initial Exposed,"2",not isolated,"Low-risk","non-vaccinated",0
+Initial final time,,,,,200
+Initial Hospitalised,"0","High-risk",vaccinated,,0
+Initial Hospitalised,"0","High-risk","non-vaccinated",,0
+Initial Hospitalised,"0","Low-risk",vaccinated,,0
+Initial Hospitalised,"0","Low-risk","non-vaccinated",,0
+Initial Hospitalised,"1","High-risk",vaccinated,,0
+Initial Hospitalised,"1","High-risk","non-vaccinated",,0
+Initial Hospitalised,"1","Low-risk",vaccinated,,0
+Initial Hospitalised,"1","Low-risk","non-vaccinated",,0
+Initial Hospitalised,"2","High-risk",vaccinated,,0
+Initial Hospitalised,"2","High-risk","non-vaccinated",,0
+Initial Hospitalised,"2","Low-risk",vaccinated,,0
+Initial Hospitalised,"2","Low-risk","non-vaccinated",,0
+Initial Immune,"0","High-risk",vaccinated,,0
+Initial Immune,"0","High-risk","non-vaccinated",,0
+Initial Immune,"0","Low-risk",vaccinated,,0
+Initial Immune,"0","Low-risk","non-vaccinated",,0
+Initial Immune,"1","High-risk",vaccinated,,0
+Initial Immune,"1","High-risk","non-vaccinated",,0
+Initial Immune,"1","Low-risk",vaccinated,,0
+Initial Immune,"1","Low-risk","non-vaccinated",,0
+Initial Immune,"2","High-risk",vaccinated,,0
+Initial Immune,"2","High-risk","non-vaccinated",,0
+Initial Immune,"2","Low-risk",vaccinated,,0
+Initial Immune,"2","Low-risk","non-vaccinated",,0
+Initial Infectious asymptomatic,"0",In isolation,"High-risk",vaccinated,0
+Initial Infectious asymptomatic,"0",In isolation,"High-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"0",In isolation,"Low-risk",vaccinated,0
+Initial Infectious asymptomatic,"0",In isolation,"Low-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"0",not isolated,"High-risk",vaccinated,0
+Initial Infectious asymptomatic,"0",not isolated,"High-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"0",not isolated,"Low-risk",vaccinated,0
+Initial Infectious asymptomatic,"0",not isolated,"Low-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"1",In isolation,"High-risk",vaccinated,0
+Initial Infectious asymptomatic,"1",In isolation,"High-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"1",In isolation,"Low-risk",vaccinated,0
+Initial Infectious asymptomatic,"1",In isolation,"Low-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"1",not isolated,"High-risk",vaccinated,0
+Initial Infectious asymptomatic,"1",not isolated,"High-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"1",not isolated,"Low-risk",vaccinated,0
+Initial Infectious asymptomatic,"1",not isolated,"Low-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"2",In isolation,"High-risk",vaccinated,0
+Initial Infectious asymptomatic,"2",In isolation,"High-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"2",In isolation,"Low-risk",vaccinated,0
+Initial Infectious asymptomatic,"2",In isolation,"Low-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"2",not isolated,"High-risk",vaccinated,0
+Initial Infectious asymptomatic,"2",not isolated,"High-risk","non-vaccinated",0
+Initial Infectious asymptomatic,"2",not isolated,"Low-risk",vaccinated,0
+Initial Infectious asymptomatic,"2",not isolated,"Low-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","0",In isolation,"High-risk",vaccinated,0
+"Initial infectious pre-symptomatic","0",In isolation,"High-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","0",In isolation,"Low-risk",vaccinated,0
+"Initial infectious pre-symptomatic","0",In isolation,"Low-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","0",not isolated,"High-risk",vaccinated,0
+"Initial infectious pre-symptomatic","0",not isolated,"High-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","0",not isolated,"Low-risk",vaccinated,0
+"Initial infectious pre-symptomatic","0",not isolated,"Low-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","1",In isolation,"High-risk",vaccinated,0
+"Initial infectious pre-symptomatic","1",In isolation,"High-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","1",In isolation,"Low-risk",vaccinated,0
+"Initial infectious pre-symptomatic","1",In isolation,"Low-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","1",not isolated,"High-risk",vaccinated,0
+"Initial infectious pre-symptomatic","1",not isolated,"High-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","1",not isolated,"Low-risk",vaccinated,0
+"Initial infectious pre-symptomatic","1",not isolated,"Low-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","2",In isolation,"High-risk",vaccinated,0
+"Initial infectious pre-symptomatic","2",In isolation,"High-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","2",In isolation,"Low-risk",vaccinated,0
+"Initial infectious pre-symptomatic","2",In isolation,"Low-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","2",not isolated,"High-risk",vaccinated,0
+"Initial infectious pre-symptomatic","2",not isolated,"High-risk","non-vaccinated",0
+"Initial infectious pre-symptomatic","2",not isolated,"Low-risk",vaccinated,0
+"Initial infectious pre-symptomatic","2",not isolated,"Low-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"0",In isolation,"High-risk",vaccinated,0
+Initial mild infectious symptomatic,"0",In isolation,"High-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"0",In isolation,"Low-risk",vaccinated,0
+Initial mild infectious symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"0",not isolated,"High-risk",vaccinated,0
+Initial mild infectious symptomatic,"0",not isolated,"High-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"0",not isolated,"Low-risk",vaccinated,0
+Initial mild infectious symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"1",In isolation,"High-risk",vaccinated,0
+Initial mild infectious symptomatic,"1",In isolation,"High-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"1",In isolation,"Low-risk",vaccinated,0
+Initial mild infectious symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"1",not isolated,"High-risk",vaccinated,0
+Initial mild infectious symptomatic,"1",not isolated,"High-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"1",not isolated,"Low-risk",vaccinated,0
+Initial mild infectious symptomatic,"1",not isolated,"Low-risk","non-vaccinated",1
+Initial mild infectious symptomatic,"2",In isolation,"High-risk",vaccinated,0
+Initial mild infectious symptomatic,"2",In isolation,"High-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"2",In isolation,"Low-risk",vaccinated,0
+Initial mild infectious symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"2",not isolated,"High-risk",vaccinated,0
+Initial mild infectious symptomatic,"2",not isolated,"High-risk","non-vaccinated",0
+Initial mild infectious symptomatic,"2",not isolated,"Low-risk",vaccinated,0
+Initial mild infectious symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0
+initial perc of infsymp dead,"0",In isolation,"High-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"0",In isolation,"High-risk","non-vaccinated",1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"0",In isolation,"Low-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"0",In isolation,"Low-risk","non-vaccinated",1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"0",not isolated,"High-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"0",not isolated,"High-risk","non-vaccinated",0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723
+initial perc of infsymp dead,"0",not isolated,"Low-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"0",not isolated,"Low-risk","non-vaccinated",0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158
+initial perc of infsymp dead,"1",In isolation,"High-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"1",In isolation,"High-risk","non-vaccinated",1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"1",In isolation,"Low-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"1",In isolation,"Low-risk","non-vaccinated",1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"1",not isolated,"High-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"1",not isolated,"High-risk","non-vaccinated",0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723
+initial perc of infsymp dead,"1",not isolated,"Low-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"1",not isolated,"Low-risk","non-vaccinated",0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158
+initial perc of infsymp dead,"2",In isolation,"High-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"2",In isolation,"High-risk","non-vaccinated",1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"2",In isolation,"Low-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"2",In isolation,"Low-risk","non-vaccinated",1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"2",not isolated,"High-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"2",not isolated,"High-risk","non-vaccinated",0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723,0.722723
+initial perc of infsymp dead,"2",not isolated,"Low-risk",vaccinated,1,1,1,1,1,1,1,1,1
+initial perc of infsymp dead,"2",not isolated,"Low-risk","non-vaccinated",0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158,0.922158
+initial perc of infsymp hosp,"0",In isolation,"High-risk",vaccinated,0
+initial perc of infsymp hosp,"0",In isolation,"High-risk","non-vaccinated",0
+initial perc of infsymp hosp,"0",In isolation,"Low-risk",vaccinated,0
+initial perc of infsymp hosp,"0",In isolation,"Low-risk","non-vaccinated",0
+initial perc of infsymp hosp,"0",not isolated,"High-risk",vaccinated,0
+initial perc of infsymp hosp,"0",not isolated,"High-risk","non-vaccinated",0.277277
+initial perc of infsymp hosp,"0",not isolated,"Low-risk",vaccinated,0
+initial perc of infsymp hosp,"0",not isolated,"Low-risk","non-vaccinated",0.077842
+initial perc of infsymp hosp,"1",In isolation,"High-risk",vaccinated,0
+initial perc of infsymp hosp,"1",In isolation,"High-risk","non-vaccinated",0
+initial perc of infsymp hosp,"1",In isolation,"Low-risk",vaccinated,0
+initial perc of infsymp hosp,"1",In isolation,"Low-risk","non-vaccinated",0
+initial perc of infsymp hosp,"1",not isolated,"High-risk",vaccinated,0
+initial perc of infsymp hosp,"1",not isolated,"High-risk","non-vaccinated",0.277277
+initial perc of infsymp hosp,"1",not isolated,"Low-risk",vaccinated,0
+initial perc of infsymp hosp,"1",not isolated,"Low-risk","non-vaccinated",0.077842
+initial perc of infsymp hosp,"2",In isolation,"High-risk",vaccinated,0
+initial perc of infsymp hosp,"2",In isolation,"High-risk","non-vaccinated",0
+initial perc of infsymp hosp,"2",In isolation,"Low-risk",vaccinated,0
+initial perc of infsymp hosp,"2",In isolation,"Low-risk","non-vaccinated",0
+initial perc of infsymp hosp,"2",not isolated,"High-risk",vaccinated,0
+initial perc of infsymp hosp,"2",not isolated,"High-risk","non-vaccinated",0.277277
+initial perc of infsymp hosp,"2",not isolated,"Low-risk",vaccinated,0
+initial perc of infsymp hosp,"2",not isolated,"Low-risk","non-vaccinated",0.077842
+initial perc of presymp severe,"0",In isolation,"High-risk",vaccinated,1
+initial perc of presymp severe,"0",In isolation,"High-risk","non-vaccinated",1
+initial perc of presymp severe,"0",In isolation,"Low-risk",vaccinated,1
+initial perc of presymp severe,"0",In isolation,"Low-risk","non-vaccinated",1
+initial perc of presymp severe,"0",not isolated,"High-risk",vaccinated,1
+initial perc of presymp severe,"0",not isolated,"High-risk","non-vaccinated",0.325
+initial perc of presymp severe,"0",not isolated,"Low-risk",vaccinated,1
+initial perc of presymp severe,"0",not isolated,"Low-risk","non-vaccinated",0.1
+initial perc of presymp severe,"1",In isolation,"High-risk",vaccinated,1
+initial perc of presymp severe,"1",In isolation,"High-risk","non-vaccinated",1
+initial perc of presymp severe,"1",In isolation,"Low-risk",vaccinated,1
+initial perc of presymp severe,"1",In isolation,"Low-risk","non-vaccinated",1
+initial perc of presymp severe,"1",not isolated,"High-risk",vaccinated,1
+initial perc of presymp severe,"1",not isolated,"High-risk","non-vaccinated",0.325
+initial perc of presymp severe,"1",not isolated,"Low-risk",vaccinated,1
+initial perc of presymp severe,"1",not isolated,"Low-risk","non-vaccinated",0.1
+initial perc of presymp severe,"2",In isolation,"High-risk",vaccinated,1
+initial perc of presymp severe,"2",In isolation,"High-risk","non-vaccinated",1
+initial perc of presymp severe,"2",In isolation,"Low-risk",vaccinated,1
+initial perc of presymp severe,"2",In isolation,"Low-risk","non-vaccinated",1
+initial perc of presymp severe,"2",not isolated,"High-risk",vaccinated,1
+initial perc of presymp severe,"2",not isolated,"High-risk","non-vaccinated",0.235
+initial perc of presymp severe,"2",not isolated,"Low-risk",vaccinated,1
+initial perc of presymp severe,"2",not isolated,"Low-risk","non-vaccinated",0.1
+Initial severe infectious symptomatic,"0",In isolation,"High-risk",vaccinated,0
+Initial severe infectious symptomatic,"0",In isolation,"High-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"0",In isolation,"Low-risk",vaccinated,0
+Initial severe infectious symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"0",not isolated,"High-risk",vaccinated,0
+Initial severe infectious symptomatic,"0",not isolated,"High-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"0",not isolated,"Low-risk",vaccinated,0
+Initial severe infectious symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"1",In isolation,"High-risk",vaccinated,0
+Initial severe infectious symptomatic,"1",In isolation,"High-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"1",In isolation,"Low-risk",vaccinated,0
+Initial severe infectious symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"1",not isolated,"High-risk",vaccinated,0
+Initial severe infectious symptomatic,"1",not isolated,"High-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"1",not isolated,"Low-risk",vaccinated,0
+Initial severe infectious symptomatic,"1",not isolated,"Low-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"2",In isolation,"High-risk",vaccinated,0
+Initial severe infectious symptomatic,"2",In isolation,"High-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"2",In isolation,"Low-risk",vaccinated,0
+Initial severe infectious symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"2",not isolated,"High-risk",vaccinated,0
+Initial severe infectious symptomatic,"2",not isolated,"High-risk","non-vaccinated",0
+Initial severe infectious symptomatic,"2",not isolated,"Low-risk",vaccinated,0
+Initial severe infectious symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0
+Initial Susceptible,"0","High-risk",vaccinated,,0
+Initial Susceptible,"0","High-risk","non-vaccinated",,170
+Initial Susceptible,"0","Low-risk",vaccinated,,0
+Initial Susceptible,"0","Low-risk","non-vaccinated",,4086
+Initial Susceptible,"1","High-risk",vaccinated,,0
+Initial Susceptible,"1","High-risk","non-vaccinated",,530
+Initial Susceptible,"1","Low-risk",vaccinated,,0
+Initial Susceptible,"1","Low-risk","non-vaccinated",,12722
+Initial Susceptible,"2","High-risk",vaccinated,,0
+Initial Susceptible,"2","High-risk","non-vaccinated",,107
+Initial Susceptible,"2","Low-risk",vaccinated,,0
+Initial Susceptible,"2","Low-risk","non-vaccinated",,2256
+INITIAL TIME,,,,,0
+"initial tot-days-hospcrit",,,,,0
+"initial tot-days-infectious",,,,,0
+"Initial tot-n-exposed",,,,,0
+"initial tot-n-hospcrit",,,,,0
+"initial tot-n-infectious",,,,,0
+Initial week E,,,,,0
+"initial-max-incidence",,,,,0
+"initial-max-prevalence-all",,,,,0
+"intervention-duration",,,,,1
+Interventions already finished,,,,,0
+Interventions finished,,,,,0,0,0,0,0,0,0,0,0
+"isolate-inform?",,,,,0
+"isolation-efficacy",,,,,0.89
+Lose immunity,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Lose immunity,"0","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Lose immunity,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Lose immunity,"0","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Lose immunity,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Lose immunity,"1","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Lose immunity,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Lose immunity,"1","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Lose immunity,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Lose immunity,"2","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+Lose immunity,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Lose immunity,"2","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+lost immunity,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+lost immunity,"0","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+lost immunity,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+lost immunity,"0","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+lost immunity,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+lost immunity,"1","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+lost immunity,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+lost immunity,"1","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+lost immunity,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+lost immunity,"2","High-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+lost immunity,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+lost immunity,"2","Low-risk","non-vaccinated",,0,0,0,0,0,0,0,0,0
+"low-risk-needed","High-risk",,,,0
+"low-risk-needed","Low-risk",,,,0.21875,0.21875,0.21875,0.21875,0.21875,0.21875,0.21875,0.21875,0.21875
+"max-incidence",,,,,2.31965E-05,2.47008E-05,2.65343E-05,2.9126E-05,3.27536E-05,3.75376E-05,4.35167E-05,5.07188E-05,5.92068E-05
+"max-presymptomatic",,,,,3
+"max-prevalence-all",,,,,0.000100634,0.000118646,0.000138319,0.000160198,0.000185114,0.000214035,0.00024796,0.000287879,0.0003348
+Mild infectious symptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"0",not isolated,"High-risk","non-vaccinated",0,3.45085E-07,1.77245E-05,0.000124583,0.000417567,0.000963548,0.00178771,0.00288645,0.00424465
+Mild infectious symptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,9.93716E-06,0.000510398,0.00358752,0.0120243,0.0277466,0.0514792,0.0831188,0.12223
+Mild infectious symptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"1",not isolated,"High-risk","non-vaccinated",0,1.07585E-06,5.52586E-05,0.000388406,0.00130183,0.003004,0.00557343,0.00899892,0.0132333
+Mild infectious symptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"1",not isolated,"Low-risk","non-vaccinated",1,0.903175,0.864047,0.847622,0.84424,0.855097,0.881639,0.924803,0.985604
+Mild infectious symptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"2",not isolated,"High-risk","non-vaccinated",0,2.17201E-07,1.1156E-05,7.8414E-05,0.000262821,0.000606469,0.0011252,0.00181676,0.00267163
+Mild infectious symptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Mild infectious symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,5.4866E-06,0.000281805,0.00198078,0.00663899,0.0153197,0.0284232,0.0458923,0.0674867
+"mild-asymptomatic",,,,,0.45
+minimal simulation time,,,,,7
+Mix R0,,,,,0,3.48232,3.48194,3.48129,3.48054,3.4798,3.47915,3.4786,3.47814
+move reduction impact,,,,,0.03,0.039,0.048,0.057,0.066,0.075,0.084,0.093,0.102
+move reduction impact constant,,,,,0.009
+"move-long-impact",,,,,3.66667,3.66667,3.66667,3.66667,3.66667,3.66667,3.66667,3.66667,3.66667
+"move-reduction-long",,,,,0.5
+"move-reduction-short",,,,,0.5
+"move-short-impact",,,,,1.125,1.125,1.125,1.125,1.125,1.125,1.125,1.125,1.125
+movement impact ratio,,,,,0.55
+"new-D",,,,,0,1.40067E-06,2.9811E-05,0.00012475,0.000295382,0.000538709,0.000856404,0.00125534,0.00174387
+"new-I",,,,,0.181162,0.186155,0.209741,0.250526,0.302035,0.359849,0.422812,0.492205,0.570608
+"new-R",,,,,0.117647,0.117353,0.116459,0.116333,0.118362,0.123557,0.132704,0.146422,0.165171
+non isolated in hospital,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+non isolated in hospital,"0","High-risk","non-vaccinated",,0,3.81533E-12,2.11335E-09,5.54173E-08,4.51032E-07,1.99183E-06,6.07229E-06,1.44839E-05,2.90839E-05
+non isolated in hospital,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+non isolated in hospital,"0","Low-risk","non-vaccinated",,0,2.29256E-11,1.26988E-08,3.32993E-07,2.71017E-06,1.19685E-05,3.64873E-05,8.70311E-05,0.00017476
+non isolated in hospital,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+non isolated in hospital,"1","High-risk","non-vaccinated",,0,1.18948E-11,6.58868E-09,1.72772E-07,1.40616E-06,6.20982E-06,1.89312E-05,4.51556E-05,9.06733E-05
+non isolated in hospital,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+non isolated in hospital,"1","Low-risk","non-vaccinated",,0,2.34481E-07,1.1629E-05,7.89311E-05,0.000256075,0.000573925,0.0010378,0.00163766,0.00235799
+non isolated in hospital,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+non isolated in hospital,"2","High-risk","non-vaccinated",,0,2.40141E-12,1.33017E-09,3.48803E-08,2.83885E-07,1.25368E-06,3.82197E-06,9.11632E-06,1.83057E-05
+non isolated in hospital,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+non isolated in hospital,"2","Low-risk","non-vaccinated",,0,1.26579E-11,7.01135E-09,1.83855E-07,1.49637E-06,6.60819E-06,2.01457E-05,4.80524E-05,9.64901E-05
+"non-iso population","0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"non-iso population","0","High-risk","non-vaccinated",,170,170,170,170,170,170,170,170,170
+"non-iso population","0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"non-iso population","0","Low-risk","non-vaccinated",,4086,4086,4086,4086,4086,4086,4086,4086,4086
+"non-iso population","1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"non-iso population","1","High-risk","non-vaccinated",,530,530,530,530,530,530,530,530,529.999
+"non-iso population","1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"non-iso population","1","Low-risk","non-vaccinated",,12724,12724,12724,12724,12724,12724,12724,12724,12724
+"non-iso population","2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"non-iso population","2","High-risk","non-vaccinated",,107,107,107,107,107,107,107,107,107
+"non-iso population","2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"non-iso population","2","Low-risk","non-vaccinated",,2256,2256,2256,2256,2256,2256,2256,2256,2256
+Normal decrease week E,,,,,0,0,0,0,0,0,0,0.461007,0.490904
+"Overall IFR%",,,,,2.4435,2.4435,2.4435,2.4435,2.4435,2.4435,2.4435,2.4435,2.4435
+People dying,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"0",not isolated,"High-risk","non-vaccinated",0,3.65207E-11,8.76757E-09,1.4178E-07,8.19082E-07,2.77964E-06,6.86841E-06,1.38198E-05,2.41719E-05
+People dying,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"0",not isolated,"Low-risk","non-vaccinated",0,2.19446E-10,5.26828E-08,8.51933E-07,4.92172E-06,1.67024E-05,4.12711E-05,8.30404E-05,0.000145245
+People dying,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"1",not isolated,"High-risk","non-vaccinated",0,1.13859E-10,2.73342E-08,4.42021E-07,2.55361E-06,8.66594E-06,2.14133E-05,4.30851E-05,7.53594E-05
+People dying,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"1",not isolated,"Low-risk","non-vaccinated",0,1.40015E-06,2.96876E-05,0.000122754,0.000283855,0.000499589,0.000759741,0.00106085,0.00140369
+People dying,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"2",not isolated,"High-risk","non-vaccinated",0,2.29865E-11,5.51841E-09,8.92383E-08,5.1554E-07,1.74954E-06,4.32306E-06,8.69831E-06,1.52141E-05
+People dying,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying,"2",not isolated,"Low-risk","non-vaccinated",0,1.21163E-10,2.90877E-08,4.70377E-07,2.71742E-06,9.22187E-06,2.2787E-05,4.58491E-05,8.01938E-05
+People dying at home,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying at home,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying at home,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"0",not isolated,"High-risk","non-vaccinated",0,3.65177E-11,8.75917E-09,1.4124E-07,8.10941E-07,2.72267E-06,6.61907E-06,1.30231E-05,2.2137E-05
+People dying at home,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"0",not isolated,"Low-risk","non-vaccinated",0,2.19428E-10,5.26323E-08,8.48684E-07,4.8728E-06,1.63601E-05,3.97728E-05,7.82533E-05,0.000133017
+People dying at home,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying at home,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying at home,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"1",not isolated,"High-risk","non-vaccinated",0,1.13849E-10,2.7308E-08,4.40335E-07,2.52823E-06,8.48833E-06,2.06359E-05,4.06013E-05,6.90154E-05
+People dying at home,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"1",not isolated,"Low-risk","non-vaccinated",0,1.39975E-06,2.95901E-05,0.000121152,0.000274454,0.000467267,0.000679154,0.000898119,0.0011199
+People dying at home,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying at home,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People dying at home,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"2",not isolated,"High-risk","non-vaccinated",0,2.29847E-11,5.51312E-09,8.88979E-08,5.10416E-07,1.71368E-06,4.16612E-06,8.19687E-06,1.39333E-05
+People dying at home,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People dying at home,"2",not isolated,"Low-risk","non-vaccinated",0,1.21153E-10,2.90598E-08,4.68583E-07,2.69042E-06,9.03286E-06,2.19597E-05,4.32059E-05,7.34428E-05
+People getting sick,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting sick,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting sick,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"0",not isolated,"High-risk","non-vaccinated",0,1.45478E-05,8.22307E-05,0.000196559,0.00033602,0.000484982,0.000637151,0.000793337,0.000958327
+People getting sick,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"0",not isolated,"Low-risk","non-vaccinated",0,8.7415E-05,0.00049411,0.00118109,0.00201909,0.00291417,0.00382853,0.00476702,0.00575842
+People getting sick,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting sick,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting sick,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"1",not isolated,"High-risk","non-vaccinated",0,4.53548E-05,0.000256366,0.000612801,0.00104759,0.001512,0.00198641,0.00247334,0.00298773
+People getting sick,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"1",not isolated,"Low-risk","non-vaccinated",0.0094625,0.00957032,0.0100907,0.0110191,0.0122433,0.013697,0.0153859,0.0173684,0.0197289
+People getting sick,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting sick,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting sick,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"2",not isolated,"High-risk","non-vaccinated",0,9.15654E-06,5.1757E-05,0.000123716,0.000211495,0.000305253,0.00040103,0.000499336,0.000603182
+People getting sick,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting sick,"2",not isolated,"Low-risk","non-vaccinated",0,4.82644E-05,0.000272813,0.000652112,0.0011148,0.001609,0.00211384,0.00263201,0.00317939
+People getting slight symptoms,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"0",not isolated,"High-risk","non-vaccinated",0,3.02954E-05,0.000171244,0.000409329,0.000699755,0.00100996,0.00132685,0.00165211,0.0019957
+People getting slight symptoms,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"0",not isolated,"Low-risk","non-vaccinated",0,0.000872394,0.00493117,0.0117871,0.0201503,0.0290832,0.0382084,0.0475745,0.0574685
+People getting slight symptoms,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"1",not isolated,"High-risk","non-vaccinated",0,9.44504E-05,0.000533877,0.00127614,0.00218159,0.00314871,0.00413666,0.00515069,0.00622188
+People getting slight symptoms,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"1",not isolated,"Low-risk","non-vaccinated",0.0944349,0.095511,0.100704,0.109969,0.122187,0.136695,0.15355,0.173335,0.196893
+People getting slight symptoms,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"2",not isolated,"High-risk","non-vaccinated",0,1.90683E-05,0.000107783,0.000257637,0.000440434,0.000635683,0.000835137,0.00103986,0.00125611
+People getting slight symptoms,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People getting slight symptoms,"2",not isolated,"Low-risk","non-vaccinated",0,0.000481674,0.00272265,0.00650803,0.0111256,0.0160577,0.021096,0.0262673,0.0317301
+People going to die,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People going to die,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People going to die,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"0",not isolated,"High-risk","non-vaccinated",0,1.548E-07,3.2358E-06,1.30831E-05,2.92367E-05,4.91064E-05,7.05624E-05,9.26604E-05,0.000115448
+People going to die,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"0",not isolated,"Low-risk","non-vaccinated",0,9.30168E-07,1.94433E-05,7.86141E-05,0.000175678,0.000295072,0.000423997,0.00055678,0.000693708
+People going to die,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People going to die,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People going to die,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"1",not isolated,"High-risk","non-vaccinated",0,4.82613E-07,1.00881E-05,4.07885E-05,9.11496E-05,0.000153096,0.000219989,0.000288882,0.000359927
+People going to die,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"1",not isolated,"Low-risk","non-vaccinated",0,0.000801592,0.00131972,0.00146832,0.00160778,0.00178441,0.00199548,0.002242,0.0025319
+People going to die,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People going to die,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People going to die,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"2",not isolated,"High-risk","non-vaccinated",0,9.74331E-08,2.03665E-06,8.23467E-06,1.84019E-05,3.09081E-05,4.44128E-05,5.83215E-05,7.26644E-05
+People going to die,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People going to die,"2",not isolated,"Low-risk","non-vaccinated",0,5.13573E-07,1.07352E-05,4.34052E-05,9.6997E-05,0.000162918,0.000234101,0.000307414,0.000383016
+people initial outside hospital,,,,,0
+people needing hospital,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people needing hospital,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people needing hospital,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"0",not isolated,"High-risk","non-vaccinated",0,9.1059E-07,1.90341E-05,7.69595E-05,0.00017198,0.000288861,0.000415073,0.000545061,0.000679107
+people needing hospital,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"0",not isolated,"Low-risk","non-vaccinated",0,5.47157E-06,0.000114373,0.000462436,0.0010334,0.00173571,0.0024941,0.00327518,0.00408063
+people needing hospital,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people needing hospital,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people needing hospital,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"1",not isolated,"High-risk","non-vaccinated",0,2.8389E-06,5.93416E-05,0.000239933,0.000536174,0.000900567,0.00129405,0.00169931,0.00211722
+people needing hospital,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"1",not isolated,"Low-risk","non-vaccinated",0,0.00471525,0.00776305,0.00863718,0.00945754,0.0104965,0.0117381,0.0131882,0.0148936
+people needing hospital,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people needing hospital,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people needing hospital,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"2",not isolated,"High-risk","non-vaccinated",0,5.73136E-07,1.19803E-05,4.84392E-05,0.000108247,0.000181813,0.000261252,0.000343068,0.000427438
+people needing hospital,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people needing hospital,"2",not isolated,"Low-risk","non-vaccinated",0,3.02102E-06,6.31485E-05,0.000255324,0.00057057,0.000958339,0.00137707,0.00180832,0.00225304
+People needing hospital dying at home,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"0",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"0",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"1",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"1",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"2",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital dying at home,"2",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"0",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"0",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"1",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"1",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"2",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+People needing hospital recovering at home,"2",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people recovering,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people recovering,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people recovering,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"0",not isolated,"High-risk","non-vaccinated",0,3.02954E-05,0.000171244,0.000409329,0.000699755,0.00100996,0.00132685,0.00165211,0.0019957
+people recovering,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"0",not isolated,"Low-risk","non-vaccinated",0,0.000872394,0.00493117,0.0117871,0.0201503,0.0290832,0.0382084,0.0475745,0.0574685
+people recovering,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people recovering,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people recovering,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"1",not isolated,"High-risk","non-vaccinated",0,9.44504E-05,0.000533877,0.00127614,0.00218159,0.00314871,0.00413666,0.00515069,0.00622188
+people recovering,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"1",not isolated,"Low-risk","non-vaccinated",0.0944349,0.095511,0.100704,0.109969,0.122187,0.136695,0.15355,0.173335,0.196893
+people recovering,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people recovering,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+people recovering,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"2",not isolated,"High-risk","non-vaccinated",0,1.90683E-05,0.000107783,0.000257637,0.000440434,0.000635683,0.000835137,0.00103986,0.00125611
+people recovering,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+people recovering,"2",not isolated,"Low-risk","non-vaccinated",0,0.000481674,0.00272265,0.00650803,0.0111256,0.0160577,0.021096,0.0262673,0.0317301
+people unit correction,,,,,1
+perc of episodeless,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+perc of episodeless,"0","High-risk","non-vaccinated",,1,1,1,1,1,1,1,1,1
+perc of episodeless,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+perc of episodeless,"0","Low-risk","non-vaccinated",,1,1,1,1,1,1,1,1,1
+perc of episodeless,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+perc of episodeless,"1","High-risk","non-vaccinated",,1,1,1,1,1,1,1,1,1
+perc of episodeless,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+perc of episodeless,"1","Low-risk","non-vaccinated",,1,1,1,1,1,1,1,1,1
+perc of episodeless,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+perc of episodeless,"2","High-risk","non-vaccinated",,1,1,1,1,1,1,1,1,1
+perc of episodeless,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+perc of episodeless,"2","Low-risk","non-vaccinated",,1,1,1,1,1,1,1,1,1
+perc of people with symptoms getting sick,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"0",not isolated,"High-risk","non-vaccinated",0,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414
+perc of people with symptoms getting sick,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"0",not isolated,"Low-risk","non-vaccinated",0,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754
+perc of people with symptoms getting sick,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"1",not isolated,"High-risk","non-vaccinated",0,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414
+perc of people with symptoms getting sick,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"1",not isolated,"Low-risk","non-vaccinated",0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754
+perc of people with symptoms getting sick,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"2",not isolated,"High-risk","non-vaccinated",0,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414,0.324414
+perc of people with symptoms getting sick,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+perc of people with symptoms getting sick,"2",not isolated,"Low-risk","non-vaccinated",0,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754,0.0910754
+Perc of presymptomatic transmitters during infection,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of presymptomatic transmitters during infection,"0","High-risk","non-vaccinated",,0,0,0.61561,0.527424,0.433299,0.355045,0.294875,0.249952,0.21688
+Perc of presymptomatic transmitters during infection,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of presymptomatic transmitters during infection,"0","Low-risk","non-vaccinated",,0,0,0.548211,0.469686,0.385817,0.315984,0.262172,0.221889,0.192146
+Perc of presymptomatic transmitters during infection,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of presymptomatic transmitters during infection,"1","High-risk","non-vaccinated",,0,0,0.61561,0.527424,0.433299,0.355045,0.294875,0.249952,0.21688
+Perc of presymptomatic transmitters during infection,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of presymptomatic transmitters during infection,"1","Low-risk","non-vaccinated",,0,0,0.0765552,0.0920815,0.093631,0.0949422,0.0965486,0.0980437,0.0994065
+Perc of presymptomatic transmitters during infection,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of presymptomatic transmitters during infection,"2","High-risk","non-vaccinated",,0,0,0.61561,0.527424,0.433299,0.355045,0.294875,0.249952,0.21688
+Perc of presymptomatic transmitters during infection,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of presymptomatic transmitters during infection,"2","Low-risk","non-vaccinated",,0,0,0.548211,0.469686,0.385817,0.315984,0.262172,0.221889,0.192146
+Perc of symptomatic transmitters,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of symptomatic transmitters,"0","High-risk","non-vaccinated",,0,0.0284342,0.11679,0.211227,0.289803,0.35016,0.39504,0.427808,0.451393
+Perc of symptomatic transmitters,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of symptomatic transmitters,"0","Low-risk","non-vaccinated",,0,0.0253221,0.104045,0.18834,0.258766,0.313227,0.354113,0.384339,0.406431
+Perc of symptomatic transmitters,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of symptomatic transmitters,"1","High-risk","non-vaccinated",,0,0.0284342,0.11679,0.211227,0.289803,0.35016,0.39504,0.427808,0.451393
+Perc of symptomatic transmitters,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of symptomatic transmitters,"1","Low-risk","non-vaccinated",,1,0.850696,0.770118,0.710625,0.659072,0.615408,0.579849,0.55164,0.529559
+Perc of symptomatic transmitters,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of symptomatic transmitters,"2","High-risk","non-vaccinated",,0,0.0284342,0.11679,0.211227,0.289803,0.35016,0.39504,0.427808,0.451393
+Perc of symptomatic transmitters,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Perc of symptomatic transmitters,"2","Low-risk","non-vaccinated",,0,0.0253221,0.104045,0.18834,0.258766,0.313227,0.354113,0.384339,0.406431
+"perc-people-going-toHospital",,,,,1,1,1,1,1,1,1,1,1
+"pp-patch",,,,,12
+"prevalence-all",,,,,0.000100634,0.000118646,0.000138319,0.000160198,0.000185114,0.000214035,0.00024796,0.000287879,0.0003348
+"prevalence-I",,,,,5.0317E-05,5.35815E-05,5.75649E-05,6.32164E-05,7.11625E-05,8.16819E-05,9.48694E-05,0.000110792,0.000129592
+Previous infectious transmitter distr,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,1.01007E-06,7.07925E-05
+Previous infectious transmitter distr,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,2.42772E-05,0.00170149
+Previous infectious transmitter distr,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"0",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,1.01007E-06,7.07925E-05
+Previous infectious transmitter distr,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"0",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,2.42772E-05,0.00170149
+Previous infectious transmitter distr,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,3.14903E-06,0.000220706
+Previous infectious transmitter distr,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0.999958,0.997023
+Previous infectious transmitter distr,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"1",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,3.14903E-06,0.000220706
+Previous infectious transmitter distr,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"1",not isolated,"Low-risk","non-vaccinated",1,1,1,1,1,1,1,0.999958,0.997023
+Previous infectious transmitter distr,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,6.35747E-07,4.45576E-05
+Previous infectious transmitter distr,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,1.34042E-05,0.000939442
+Previous infectious transmitter distr,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"2",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,6.35747E-07,4.45576E-05
+Previous infectious transmitter distr,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Previous infectious transmitter distr,"2",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,1.34042E-05,0.000939442
+"prob-CritDeath",,,,,0.43
+"prob-DH","High-risk",,,,0.208929,0.208929,0.208929,0.208929,0.208929,0.208929,0.208929,0.208929,0.208929
+"prob-DH","Low-risk",,,,0.0522321,0.0522321,0.0522321,0.0522321,0.0522321,0.0522321,0.0522321,0.0522321,0.0522321
+"prob-HospCrit",,,,,0.09
+"prob-HospDeath",,,,,0.28
+"prob-InfDeath",,,,,0.0085
+"prob-infect","0","High-risk",vaccinated,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"prob-infect","0","High-risk","non-vaccinated",,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"prob-infect","0","Low-risk",vaccinated,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"prob-infect","0","Low-risk","non-vaccinated",,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"prob-infect","1","High-risk",vaccinated,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"prob-infect","1","High-risk","non-vaccinated",,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"prob-infect","1","Low-risk",vaccinated,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"prob-infect","1","Low-risk","non-vaccinated",,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"prob-infect","2","High-risk",vaccinated,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"prob-infect","2","High-risk","non-vaccinated",,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"prob-infect","2","Low-risk",vaccinated,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"prob-infect","2","Low-risk","non-vaccinated",,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"prob-InfHosp",,,,,0.05
+"prop-contact","High-risk",,,,1,1,1,1,1,1,1,1,1
+"prop-contact","Low-risk",,,,1,1,1,1,1,1,1,1,1
+"prop-high-risk",,,,,0.04
+"prop-move-long",,,,,0.15
+"prop-move-short",,,,,0.4
+"prop-risk","High-risk",,,,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"prop-risk","Low-risk",,,,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96
+"recent-HR-iso","High-risk",,,,0,0,0,0,0,0,0,0,0
+"recent-HR-iso","Low-risk",,,,0
+Recover at home,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover at home,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover at home,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"0",not isolated,"High-risk","non-vaccinated",0,5.59865E-09,2.84584E-07,2.38457E-06,9.72211E-06,2.68936E-05,5.84828E-05,0.000108156,0.000178322
+Recover at home,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"0",not isolated,"Low-risk","non-vaccinated",0,1.6122E-07,8.19495E-06,6.86668E-05,0.00027996,0.000774434,0.00168409,0.00311447,0.005135
+Recover at home,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover at home,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover at home,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"1",not isolated,"High-risk","non-vaccinated",0,1.74546E-08,8.87232E-07,7.43426E-06,3.03101E-05,8.38447E-05,0.000182329,0.000337191,0.000555945
+Recover at home,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"1",not isolated,"Low-risk","non-vaccinated",0,0.000309169,0.00201831,0.00552795,0.0107191,0.0173161,0.0250467,0.0337045,0.043171
+Recover at home,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover at home,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover at home,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"2",not isolated,"High-risk","non-vaccinated",0,3.52386E-09,1.7912E-07,1.50088E-06,6.11921E-06,1.69271E-05,3.68098E-05,6.80744E-05,0.000112238
+Recover at home,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover at home,"2",not isolated,"Low-risk","non-vaccinated",0,8.90143E-08,4.52467E-06,3.79129E-05,0.000154574,0.000427587,0.000929833,0.00171959,0.00283518
+Recover from critical care,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from critical care,"0","High-risk","non-vaccinated",,0,3.35216E-20,9.94752E-16,2.20348E-13,7.53816E-12,9.64694E-11,6.76083E-10,3.16527E-09,1.11231E-08
+Recover from critical care,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from critical care,"0","Low-risk","non-vaccinated",,0,2.01425E-19,5.97729E-15,1.32404E-12,4.52955E-11,5.79668E-10,4.06246E-09,1.90195E-08,6.6837E-08
+Recover from critical care,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from critical care,"1","High-risk","non-vaccinated",,0,1.04508E-19,3.10129E-15,6.86969E-13,2.35013E-11,3.00758E-10,2.10779E-09,9.86819E-09,3.4678E-08
+Recover from critical care,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from critical care,"1","Low-risk","non-vaccinated",,0,1.11348E-14,2.60688E-11,1.416E-09,1.82644E-08,1.1132E-07,4.31455E-07,1.24094E-06,2.89804E-06
+Recover from critical care,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from critical care,"2","High-risk","non-vaccinated",,0,2.10989E-20,6.26109E-16,1.3869E-13,4.74461E-12,6.0719E-11,4.25534E-10,1.99226E-09,7.00104E-09
+Recover from critical care,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from critical care,"2","Low-risk","non-vaccinated",,0,1.11213E-19,3.30024E-15,7.31038E-13,2.5009E-11,3.20052E-10,2.243E-09,1.05012E-08,3.69027E-08
+Recover from general wards,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from general wards,"0","High-risk","non-vaccinated",,0,4.75979E-15,1.35023E-11,8.78351E-10,1.33709E-08,9.46303E-08,4.18802E-07,1.35286E-06,3.4927E-06
+Recover from general wards,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from general wards,"0","Low-risk","non-vaccinated",,0,2.86007E-14,8.11327E-11,5.27786E-09,8.03436E-08,5.68617E-07,2.5165E-06,8.12907E-06,2.0987E-05
+Recover from general wards,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from general wards,"1","High-risk","non-vaccinated",,0,1.48393E-14,4.20953E-11,2.73839E-09,4.16858E-08,2.95024E-07,1.30568E-06,4.21773E-06,1.0889E-05
+Recover from general wards,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from general wards,"1","Low-risk","non-vaccinated",,0,6.36924E-10,1.57689E-07,2.63193E-06,1.56786E-05,5.47135E-05,0.000138401,0.00028337,0.000500748
+Recover from general wards,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from general wards,"2","High-risk","non-vaccinated",,0,2.99587E-15,8.49848E-12,5.52845E-10,8.41582E-09,5.95614E-08,2.63599E-07,8.51503E-07,2.19835E-06
+Recover from general wards,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Recover from general wards,"2","Low-risk","non-vaccinated",,0,1.57913E-14,4.47957E-11,2.91406E-09,4.436E-08,3.1395E-07,1.38944E-06,4.4883E-06,1.15875E-05
+Recover mild infectious symptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"0",not isolated,"High-risk","non-vaccinated",0,1.91358E-10,4.83287E-08,8.22894E-07,4.99662E-06,1.77488E-05,4.56304E-05,9.48202E-05,0.000169883
+Recover mild infectious symptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,5.51039E-09,1.39169E-06,2.36962E-05,0.000143884,0.000511098,0.00131398,0.00273046,0.004892
+Recover mild infectious symptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"1",not isolated,"High-risk","non-vaccinated",0,5.96587E-10,1.50672E-07,2.56549E-06,1.55777E-05,5.53345E-05,0.000142259,0.000295616,0.000529637
+Recover mild infectious symptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"1",not isolated,"Low-risk","non-vaccinated",0.117647,0.117043,0.114424,0.110641,0.106884,0.103921,0.102221,0.102075,0.103678
+Recover mild infectious symptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"2",not isolated,"High-risk","non-vaccinated",0,1.20443E-10,3.04187E-08,5.17939E-07,3.14493E-06,1.11713E-05,2.87203E-05,5.96809E-05,0.000106927
+Recover mild infectious symptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover mild infectious symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,3.04245E-09,7.6839E-07,1.30834E-05,7.94424E-05,0.000282192,0.000725489,0.00150757,0.00270102
+Recover symptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"0",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"1",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"1",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"2",not isolated,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Recover symptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Recover symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+"relative-risk",,,,,4
+SAVEPER,,,,,1
+"self-isolating",,,,,0,0,0,0,0,0,0,0,0
+"self-isolators",,,,,0
+Severe infectious symptomatic,"0",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"0",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"0",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"0",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"0",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"0",not isolated,"High-risk","non-vaccinated",0,1.6568E-07,8.49525E-06,5.94145E-05,0.000197259,0.000448688,0.000816922,0.00128981,0.00185056
+Severe infectious symptomatic,"0",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"0",not isolated,"Low-risk","non-vaccinated",0,9.95539E-07,5.10464E-05,0.000357011,0.00118529,0.00269609,0.00490874,0.00775025,0.0111197
+Severe infectious symptomatic,"1",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"1",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"1",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"1",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"1",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"1",not isolated,"High-risk","non-vaccinated",0,5.1653E-07,2.64852E-05,0.000185233,0.000614983,0.00139885,0.00254688,0.00402118,0.00576941
+Severe infectious symptomatic,"1",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"1",not isolated,"Low-risk","non-vaccinated",0,0.00206844,0.00964721,0.0186021,0.0273453,0.0356805,0.0437244,0.0517083,0.0599321
+Severe infectious symptomatic,"2",In isolation,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"2",In isolation,"High-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"2",In isolation,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"2",In isolation,"Low-risk","non-vaccinated",0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"2",not isolated,"High-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"2",not isolated,"High-risk","non-vaccinated",0,1.04281E-07,5.34701E-06,3.73962E-05,0.000124157,0.00028241,0.000514181,0.000811822,0.00116477
+Severe infectious symptomatic,"2",not isolated,"Low-risk",vaccinated,0,0,0,0,0,0,0,0,0
+Severe infectious symptomatic,"2",not isolated,"Low-risk","non-vaccinated",0,5.49666E-07,2.81842E-05,0.000197116,0.000654434,0.00148859,0.00271026,0.00427914,0.00613952
+"SI-isolation-duration",,,,,14
+Smoothing time,,,,,21
+Susceptible,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Susceptible,"0","High-risk","non-vaccinated",,170,169.996,169.992,169.987,169.982,169.976,169.969,169.961,169.952
+Susceptible,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Susceptible,"0","Low-risk","non-vaccinated",,4086,4085.9,4085.8,4085.68,4085.56,4085.42,4085.25,4085.06,4084.83
+Susceptible,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Susceptible,"1","High-risk","non-vaccinated",,530,529.987,529.974,529.959,529.943,529.924,529.903,529.878,529.849
+Susceptible,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Susceptible,"1","Low-risk","non-vaccinated",,12722,12721.7,12721.4,12721,12720.6,12720.2,12719.7,12719.1,12718.4
+Susceptible,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Susceptible,"2","High-risk","non-vaccinated",,107,106.997,106.995,106.992,106.988,106.985,106.98,106.975,106.969
+Susceptible,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Susceptible,"2","Low-risk","non-vaccinated",,2256,2255.95,2255.89,2255.83,2255.76,2255.68,2255.59,2255.48,2255.36
+switch condition,,,,,200,200,200,200,200,200,200,200,8
+"switch-level",,,,,0.013
+Symptomatic transmitters,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Symptomatic transmitters,"0","High-risk","non-vaccinated",,0,5.10769E-07,2.62218E-05,0.000184053,0.000615276,0.00141423,0.0026107,0.00419074,0.0061243
+Symptomatic transmitters,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Symptomatic transmitters,"0","Low-risk","non-vaccinated",,0,1.09327E-05,0.000561457,0.00394487,0.0132123,0.0304546,0.0564244,0.0909561,0.133524
+Symptomatic transmitters,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Symptomatic transmitters,"1","High-risk","non-vaccinated",,0,1.5924E-06,8.17504E-05,0.000573812,0.00191821,0.00440906,0.00813924,0.0130653,0.0190934
+Symptomatic transmitters,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Symptomatic transmitters,"1","Low-risk","non-vaccinated",,1,0.905243,0.873706,0.866304,0.871841,0.891352,0.926401,0.978149,1.04789
+Symptomatic transmitters,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Symptomatic transmitters,"2","High-risk","non-vaccinated",,0,3.21484E-07,1.65043E-05,0.000115845,0.000387262,0.000890132,0.00164321,0.0026377,0.0038547
+Symptomatic transmitters,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+Symptomatic transmitters,"2","Low-risk","non-vaccinated",,0,6.03627E-06,0.000309997,0.00217808,0.00729492,0.0168149,0.0311536,0.0502195,0.0737227
+Time intervention already active,,,,,0
+TIME STEP,,,,,0.015625
+"time-triggered?",,,,,0,0,0,0,0,0,0,0,0
+tot days hospcrit increase,,,,,0,0.000110187,0.00222914,0.00886187,0.0198904,0.034239,0.0511632,0.0703512,0.0917325
+"tot-days-exposed",,,,,0,2.62492,5.42855,8.47086,11.8517,15.6924,20.1221,25.2735,31.2836
+"tot-days-hospcrit",,,,,0,1.72313E-05,0.000860752,0.00595085,0.0199201,0.0466349,0.0890073,0.149431,0.230123
+"tot-days-infectious",,,,,0,1.7012,3.52918,5.65968,8.22283,11.2956,14.9291,19.1757,24.1065
+"tot-n-exposed increase",,,,,0.461007,0.490904,0.527343,0.578851,0.650945,0.746022,0.864851,1.00798,1.17668
+"tot-n-exposed",,,,,0,0.475537,0.983448,1.5346,2.14708,2.84287,3.64538,4.57861,5.66742
+"tot-n-hospcrit",,,,,0,2.13223E-06,0.000106046,0.000726254,0.0023996,0.00553824,0.0104275,0.0172979,0.0263701
+"tot-n-infectious",,,,,0,0.182447,0.378542,0.607199,0.882418,1.21248,1.60286,2.0592,2.58912
+total population including dead,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+total population including dead,"0","High-risk","non-vaccinated",,170,170,170,170,170,170,170,170,170
+total population including dead,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+total population including dead,"0","Low-risk","non-vaccinated",,4086,4086,4086,4086,4086,4086,4086,4086,4086
+total population including dead,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+total population including dead,"1","High-risk","non-vaccinated",,530,530,530,530,530,530,530,530,530
+total population including dead,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+total population including dead,"1","Low-risk","non-vaccinated",,12725,12725,12725,12725,12725,12725,12725,12725,12725
+total population including dead,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+total population including dead,"2","High-risk","non-vaccinated",,107,107,107,107,107,107,107,107,107
+total population including dead,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+total population including dead,"2","Low-risk","non-vaccinated",,2256,2256,2256,2256,2256,2256,2256,2256,2256
+"total-beds",,,,,43,43,43,43,43,43,43,43,43
+"total-critical",,,,,0,6.39002E-10,2.66297E-07,5.31729E-06,3.36504E-05,0.000118716,0.000298043,0.000604027,0.00106192
+"total-dead",,,,,1,1,1.00001,1.00008,1.00028,1.00069,1.00138,1.00243,1.00392
+"total-hosp+crit",,,,,0,2.13213E-06,0.000105988,0.000724646,0.00238566,0.00547233,0.0102114,0.0167409,0.0251573
+"total-hospitalised",,,,,0,2.13149E-06,0.000105722,0.000719328,0.00235201,0.00535362,0.00991336,0.0161368,0.0240954
+"total-infectious",,,,,1,1.06488,1.14394,1.25564,1.4119,1.61787,1.87522,2.18515,2.55036
+"total-population","0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"total-population","0","High-risk","non-vaccinated",,170,170,170,170,170,170,170,170,170
+"total-population","0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"total-population","0","Low-risk","non-vaccinated",,4086,4086,4086,4086,4086,4086,4086,4086,4086
+"total-population","1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"total-population","1","High-risk","non-vaccinated",,530,530,530,530,530,530,530,530,530
+"total-population","1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"total-population","1","Low-risk","non-vaccinated",,12724,12724,12724,12724,12724,12724,12724,12724,12724
+"total-population","2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"total-population","2","High-risk","non-vaccinated",,107,107,107,107,107,107,107,107,107
+"total-population","2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"total-population","2","Low-risk","non-vaccinated",,2256,2256,2256,2256,2256,2256,2256,2256,2256
+"transmission-chance","0",,,,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"transmission-chance","1",,,,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"transmission-chance","2",,,,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"transmission-parameter",,,,,0.04
+"transmitter-distr","0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"transmitter-distr","0","High-risk","non-vaccinated",,0,1.68688E-05,0.000196268,0.000693908,0.00150343,0.00249544,0.00352211,0.00447915,0.00531408
+"transmitter-distr","0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"transmitter-distr","0","Low-risk","non-vaccinated",,0,0.000405443,0.00471726,0.01668,0.0361567,0.0600741,0.0849205,0.108211,0.128677
+"transmitter-distr","1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"transmitter-distr","1","High-risk","non-vaccinated",,0,5.25909E-05,0.000611894,0.00216336,0.00468716,0.0077799,0.0109807,0.0139644,0.0165674
+"transmitter-distr","1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"transmitter-distr","1","Low-risk","non-vaccinated",,1,0.999291,0.991747,0.970816,0.936743,0.894911,0.851473,0.81078,0.775051
+"transmitter-distr","2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"transmitter-distr","2","High-risk","non-vaccinated",,0,1.06174E-05,0.000123533,0.000436754,0.000946276,0.00157066,0.00221686,0.00281923,0.00334475
+"transmitter-distr","2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"transmitter-distr","2","Low-risk","non-vaccinated",,0,0.000223857,0.00260453,0.00920953,0.0199632,0.0331687,0.0468871,0.0597465,0.0710463
+transmitters,"0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+transmitters,"0","High-risk","non-vaccinated",,0,1.79632E-05,0.000224521,0.000871353,0.00212308,0.00403881,0.0066087,0.00979584,0.0135675
+transmitters,"0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+transmitters,"0","Low-risk","non-vaccinated",,0,0.000431747,0.00539631,0.0209454,0.0510591,0.0972285,0.15934,0.236656,0.328529
+transmitters,"1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+transmitters,"1","High-risk","non-vaccinated",,0,5.60028E-05,0.000699976,0.00271657,0.00661902,0.0125916,0.0206036,0.03054,0.0422988
+transmitters,"1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+transmitters,"1","Low-risk","non-vaccinated",,1,1.06412,1.13451,1.21907,1.32283,1.44839,1.59766,1.77317,1.97881
+transmitters,"2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+transmitters,"2","High-risk","non-vaccinated",,0,1.13062E-05,0.000141316,0.00054844,0.00133629,0.00254207,0.00415959,0.00616562,0.00853957
+transmitters,"2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+transmitters,"2","Low-risk","non-vaccinated",,0,0.00023838,0.00297946,0.0115646,0.0281912,0.0536827,0.0879764,0.130665,0.18139
+"trigger-level",,,,,99999
+"trigger-type",,,,,3
+"triggered?",,,,,0,0,0,0,0,0,0,0,0
+"use-age-mixing?",,,,,0
+"vacc-effect-I","0",vaccinated,,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"vacc-effect-I","0","non-vaccinated",,,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"vacc-effect-I","1",vaccinated,,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"vacc-effect-I","1","non-vaccinated",,,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"vacc-effect-I","2",vaccinated,,,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028,0.028
+"vacc-effect-I","2","non-vaccinated",,,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04
+"vacc-effect-S","0","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"vacc-effect-S","0","High-risk","non-vaccinated",,170,169.996,169.992,169.987,169.982,169.976,169.969,169.961,169.952
+"vacc-effect-S","0","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"vacc-effect-S","0","Low-risk","non-vaccinated",,4086,4085.9,4085.8,4085.68,4085.56,4085.42,4085.25,4085.06,4084.83
+"vacc-effect-S","1","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"vacc-effect-S","1","High-risk","non-vaccinated",,530,529.987,529.974,529.959,529.943,529.924,529.903,529.878,529.849
+"vacc-effect-S","1","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"vacc-effect-S","1","Low-risk","non-vaccinated",,12722,12721.7,12721.4,12721,12720.6,12720.2,12719.7,12719.1,12718.4
+"vacc-effect-S","2","High-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"vacc-effect-S","2","High-risk","non-vaccinated",,107,106.997,106.995,106.992,106.988,106.985,106.98,106.975,106.969
+"vacc-effect-S","2","Low-risk",vaccinated,,0,0,0,0,0,0,0,0,0
+"vacc-effect-S","2","Low-risk","non-vaccinated",,2256,2255.95,2255.89,2255.83,2255.76,2255.68,2255.59,2255.48,2255.36
+"vaccinate-to-level",,,,,1
+"vaccine-efficacy-I",vaccinated,,,,0.3
+"vaccine-efficacy-I","non-vaccinated",,,,0
+"vaccine-efficacy-S",vaccinated,,,,0.7
+"vaccine-efficacy-S","non-vaccinated",,,,0
+walking,,,,,0.00058,0.00058,0.00058,0.00058,0.00058,0.00058,0.00058,0.00058,0.00058
+week,,,,,7
+"week-E",,,,,0,0.475537,0.983448,1.5346,2.14708,2.84287,3.64538,4.57861,5.19188
+"when-symptoms-if-I",,,,,1
